@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-"# Calculator_arm_cortexm3" 
-=======
-# Calculator_arm_cortexm3
 
-Working?
->>>>>>> c7b1fdff195ffc35e5fcf9a57991d123e7133418
+"# Calculator_arm_cortexm3"
+
+All working.
+Note: you have to add literally a number on the register, has no interactivity with other modules such as terminal.
